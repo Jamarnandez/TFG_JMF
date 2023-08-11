@@ -23,7 +23,7 @@ Los notebooks que se pueden encontrar en el repositorio son los siguientes:
 
   En el notebook "Modelos RNN N Dim Salidas V2" ....
 
-Para ejecutar los códigos usted puede abrir los notebooks en el entorno colaborativo "Google Colaboratory" y ejecutar todas las celdas.
+Para ejecutar los códigos usted puede abrir los notebooks en el entorno colaborativo "Google Colaboratory" o abrirle directamente con "Jupyter" y ejecutar las celdas con código.
 
 Si desea ponerse en contacto con el autor puede escribir un correo electrónico a la dirección jamarnandez@gmail.com.
 
