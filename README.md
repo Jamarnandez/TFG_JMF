@@ -19,9 +19,9 @@ Los notebooks que se pueden encontrar en el repositorio son los siguientes:
 
   En el notebook "Modelos RNN Una Dim Salida Características Cíclicas" se implementan las redes neuronales de tipo LSTM y GRU con una salida aplicando la codificación cíclica en las caracrerísticas temporales.
 
-  En el notebook "Modelos RNN N Dim Salidas V1" ....
+  En el notebook "Modelos RNN N Dim Salidas V1" se implementan las redes neuronales de tipo LSTM y GRU con n salidas. En esta versión se entrenan los modelos con un índice combinado, compuesto por la fecha y el número de estación. El vector de características contiene una sola estación.
 
-  En el notebook "Modelos RNN N Dim Salidas V2" ....
+  En el notebook "Modelos RNN N Dim Salidas V2" se implementan las redes neuronales de tipo LSTM y GRU con n salidas. En esta versión se entrenan los modelos con un índice simple, añadiendo al vector de caracerísticas la información de las n estaciones.
 
 Para ejecutar los códigos usted puede abrir los notebooks en el entorno colaborativo "Google Colaboratory" o abrirle directamente con "Jupyter" y ejecutar las celdas con código.
 
